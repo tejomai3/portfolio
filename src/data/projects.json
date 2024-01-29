@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Project A",
+      "imageSrc": "project/project.png",
+      "description": "This is a project made for hedrers to know complete information about sheeps",
+      "skills": ["javascript","css","html"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Project B",
+      "imageSrc": "project/project.png",
+      "description": "project made for an ngo named to improve their payment and marketing",
+      "skills": ["React", "Express", "Node"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Project C",
+      "imageSrc": "project/project.png",
+      "description": "This is a travelling website to book your tour allover india",
+      "skills": ["React", "Express", "Node"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    }
+  ]
